@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Demo Coffee Shop",
+    "categories": "Coffee, Bakery",
+    "rating": 4.5,
+    "review_count": 21,
+    "url": "https://www.yelp.com/biz/synthetic-demo-coffee"
+  }
+]

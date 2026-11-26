@@ -1,0 +1,14 @@
+{
+  "title": "How to Extract Yelp Business Listings with Python",
+  "slug": "yelp-business-listings-python",
+  "owner": "Verla-lab",
+  "status": "draft",
+  "topics": [
+    "yelp",
+    "python",
+    "web-scraping",
+    "json-ld",
+    "csv",
+    "local-business-data"
+  ]
+}
